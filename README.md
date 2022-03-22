@@ -11,11 +11,11 @@ Step 2
 
   Running Tests
     - Navigate to server folder.
-    - Install jest and supertest modules using 'npm install -D'
-    - While in server folder, type 'npm run test' to run tests.
+    - Install jest and supertest modules using 'npm install jest supertest'
+    - Type 'npm run test' in the terminal to run tests.
 
 step 3
-  - using the terminal, navigate to client folder, then to fe folder.
+  - Using the terminal, navigate to client folder, then to fe folder.
   - Type 'npm install' to install all required dependencies.
   - Type 'npm start' or 'yarn start' in the terminal to start the user interface.
   - User interface will appear in broweser after loading.
