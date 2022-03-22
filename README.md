@@ -9,7 +9,7 @@ Step 2
   - Type 'npm run start' in the terminal to start the server.
   - In your browser, navigate to http://localhost:8080/api-docs to interact with API endpoints.
 
-  Running Tests
+  Running Tests on endpoints.
     - Navigate to server folder.
     - Install jest and supertest modules using 'npm install jest supertest'
     - Type 'npm run test' in the terminal to run tests.
