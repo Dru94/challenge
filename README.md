@@ -1,4 +1,4 @@
-# challenge
+# Challenge One
 
 Step 1
   - Clone this repo.
